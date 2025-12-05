@@ -1,5 +1,7 @@
 # Python 연습
 
+[![Python](https://img.shields.io/badge/Python-3.12.12-blue)](https://github.com/GithubJoshuaPark/pythonEx.git)
+
 ![PythonEx.png](PythonEx.png)
 
 아래 순서대로 Python을 연습을 위한 준비와 간단한 예제를 실행하는 방법을 안내합니다.
